@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="205328b0-f6dc-4f04-8fa8-ab8416a9a0b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +96,7 @@
       <updated>1617094117150</updated>
       <workItem from="1617094122659" duration="4644000" />
       <workItem from="1617098888615" duration="1778000" />
-      <workItem from="1617102283683" duration="622000" />
+      <workItem from="1617102283683" duration="1154000" />
     </task>
     <task id="LOCAL-00001" summary="创建二方库">
       <created>1617095212827</created>
@@ -120,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617098181943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="修改配置">
+      <created>1617103001789</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617103001789</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +135,18 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="创建二方库" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建二方库" />
+    <MESSAGE value="修改配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改配置" />
   </component>
   <component name="WindowStateProjectService">
     <state x="194" y="283" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1617097689471">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="194" y="283" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1617097689471" />
-    <state x="125" y="0" key="CommitChangelistDialog2" timestamp="1617098179963">
+    <state x="125" y="0" key="CommitChangelistDialog2" timestamp="1617103000278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="125" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617098179963" />
+    <state x="125" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617103000278" />
     <state x="413" y="50" key="FileChooserDialogImpl" timestamp="1617102924382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,14 +167,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1313" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617098800997" />
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617098466868">
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617103004653">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617098466868" />
-    <state x="314" y="129" key="git4idea.merge.GitPullDialog" timestamp="1617102961380">
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617103004653" />
+    <state x="314" y="129" key="git4idea.merge.GitPullDialog" timestamp="1617103161139">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="314" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1617102961380" />
+    <state x="314" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1617103161139" />
     <state x="0" y="4" key="new project wizard" timestamp="1617097952428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
