@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="205328b0-f6dc-4f04-8fa8-ab8416a9a0b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zgw-cola-common-base/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zgw-cola-common-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zgw-cola-common-client/src/main/java/com/zgw/cola/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zgw-cola-common-client/src/test/java/com/zgw/cola/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/zgw/cola/generate/MybatisPlusGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/zgw-cola-common-base/src/test/java/com/zgw/cola/generate/MybatisPlusGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +62,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../zgw-cola-core" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
@@ -101,7 +95,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617094117150</updated>
-      <workItem from="1617094122659" duration="3882000" />
+      <workItem from="1617094122659" duration="4644000" />
+      <workItem from="1617098888615" duration="1778000" />
+      <workItem from="1617102283683" duration="622000" />
     </task>
     <task id="LOCAL-00001" summary="创建二方库">
       <created>1617095212827</created>
@@ -117,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617095422072</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="创建二方库">
+      <created>1617098181943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617098181943</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,38 +136,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="194" y="283" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1617097689471" />
-    <state x="156" y="0" key="CommitChangelistDialog2" timestamp="1617095420639">
+    <state x="125" y="0" key="CommitChangelistDialog2" timestamp="1617098179963">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="156" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617095420639" />
-    <state x="413" y="50" key="FileChooserDialogImpl" timestamp="1617095086640">
+    <state x="125" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617098179963" />
+    <state x="413" y="50" key="FileChooserDialogImpl" timestamp="1617102924382">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="50" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617095086640" />
-    <state width="1313" height="156" key="GridCell.Tab.0.bottom" timestamp="1617097973104">
+    <state x="413" y="50" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617102924382" />
+    <state width="1313" height="156" key="GridCell.Tab.0.bottom" timestamp="1617098800997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617097973104" />
-    <state width="1313" height="156" key="GridCell.Tab.0.center" timestamp="1617097973104">
+    <state width="1313" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617098800997" />
+    <state width="1313" height="156" key="GridCell.Tab.0.center" timestamp="1617098800997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617097973104" />
-    <state width="1313" height="156" key="GridCell.Tab.0.left" timestamp="1617097973103">
+    <state width="1313" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617098800997" />
+    <state width="1313" height="156" key="GridCell.Tab.0.left" timestamp="1617098800996">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617097973103" />
-    <state width="1313" height="156" key="GridCell.Tab.0.right" timestamp="1617097973104">
+    <state width="1313" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617098800996" />
+    <state width="1313" height="156" key="GridCell.Tab.0.right" timestamp="1617098800997">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1313" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617097973104" />
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617095482021">
+    <state width="1313" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617098800997" />
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2" timestamp="1617098466868">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617095482021" />
-    <state x="314" y="129" key="git4idea.merge.GitPullDialog" timestamp="1617098146651">
+    <state x="175" y="36" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617098466868" />
+    <state x="314" y="129" key="git4idea.merge.GitPullDialog" timestamp="1617102961380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="314" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1617098146651" />
+    <state x="314" y="129" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1617102961380" />
     <state x="0" y="4" key="new project wizard" timestamp="1617097952428">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
