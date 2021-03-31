@@ -5,16 +5,30 @@
     <parent>
         <artifactId>zgw-cola-common</artifactId>
         <groupId>com.zgw.cola</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>${revision}</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>zgw-cola-common-client</artifactId>
-    <name>zgw-cola-common-client</name>
+    <artifactId>zgw-cola-common-core-client</artifactId>
+    <name>zgw-cola-common-core-client</name>
+
+    <properties>
+        <revision>1.0-SNAPSHOT</revision>
+    </properties>
 
     <dependencies>
         <dependency>
             <groupId>com.alibaba.cola</groupId>
             <artifactId>cola-component-dto</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.validation</groupId>
+            <artifactId>validation-api</artifactId>
         </dependency>
     </dependencies>
 </project>
