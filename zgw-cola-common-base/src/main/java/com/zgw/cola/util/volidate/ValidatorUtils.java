@@ -1,4 +1,4 @@
-package com.zgw.cola.util;
+package com.zgw.cola.util.volidate;
 
 import java.util.Set;
 import javax.validation.ConstraintViolation;
